@@ -57,9 +57,11 @@ what a stupid idea.
 people would get hurt most likely.
 maybe it would be funny
 can the players move about?
+
 is the goal to hit the board or the player?
-if the player is hurt he cant move, now you can score easy points
+if the player is hurt they cant move, now you can score easy points
 you’ve basically made a fps game.
+
 oh
 
 ---
