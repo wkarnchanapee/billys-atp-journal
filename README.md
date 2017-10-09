@@ -4,7 +4,7 @@ _Identify the basic elements in a game of your choice (actions, goals, rules, pl
 
 
 ## Rocket League 
-![Image](https://media.giphy.com/media/lgWrsI5W2Solq/giphy.gif)
+            ![Image](https://media.giphy.com/media/lgWrsI5W2Solq/giphy.gif)
 
 # Actions: 
 - The basic actions are **accelerate brake rotate** and **reverse**, and also **boost** and **jump**. 
