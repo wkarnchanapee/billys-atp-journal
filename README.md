@@ -42,14 +42,17 @@
 ---
 ### _As a thought experiment, swap one element between two games: a single rule, one action, the goal or the playspace._
 
-A turn based game of football? (Change Rules)
+###### A turn based game of football? (Change Rules)
+
 When the referee blows the whistle, the players can move one limb. ??? 
 would the ball be kicked with enough force?
 what about tackling and fouls?
 This game would take really long to play.
 You could bluff your opponent into thinking you were gonna make a different move than you did.
 would prioritise strategy and mind games over finesse and agility.
-Darts but each player has a dartboard attached to them. (Change Playspace)
+
+###### Darts but each player has a dartboard attached to them. (Change Playspace)
+
 what a stupid idea.
 people would get hurt most likely.
 maybe it would be funny
