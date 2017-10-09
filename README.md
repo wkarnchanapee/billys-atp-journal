@@ -66,7 +66,7 @@ oh
 When me and my brother were kids, we used to play a game with our best friend who would come over every Saturday. we called the game SATURDAY! the game was about who could bounce the bouncy ball the highest.
 
 ![Image](https://i.imgur.com/Ze9b5MC.jpg)
-I used to live in the basement flat in the house behind the tree. 
+I used to live in the basement flat in the house behind the tree to the right. 
 
 
 #### Rules:
