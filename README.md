@@ -1,12 +1,16 @@
 ## Week 1
 
 _Identify the basic elements in a game of your choice (actions, goals, rules, playspace, players)_
-Rocket League 
+
+
+## Rocket League 
+![Image](https://media.giphy.com/media/lgWrsI5W2Solq/giphy.gif)
+
 # Actions: 
-- The basic actions are accelerate brake rotate and reverse, and also boost and jump. 
-- These actions interact with other objects and each other to form new actions such as Hitting the ball, (movement + ball) Tackling other players, and collecting boost from boost pads. 
+- The basic actions are **accelerate brake rotate** and **reverse**, and also **boost** and **jump**. 
+- These actions interact with other objects and each other to form new actions such as **Hitting the ball** (movement + ball), **Tackling other players**, and **collecting boost** from boost pads. 
 # Goals: 
-- The objective of the game is to score more points than your opponent before the time runs out. The player scores a point for their team by getting the ball in the opposite team’s net. There are also meta objectives such as increasing your skill rating and collecting cosmetics for your car.
+- The objective of the game is to **score more points than your opponent before the time runs out**. The player scores a point for their team by getting the ball in the opposite team’s net. There are also meta objectives such as increasing your skill rating and collecting cosmetics for your car.
 # Rules: 
 - A goal is scored when the ball goes into the net.
 - A game lasts 5 minutes. If there is no winner by then, extra time is added and the first team to score a goal will win. 
