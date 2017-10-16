@@ -2,6 +2,33 @@
 ---
 # Week 1
 
+## Glossary
+
+### The Elements of a Game
+- Actions
+- Goals
+- Rules
+- Objects
+- Playspace
+- Players
+
+### The Basic Tools of Game Design
+- Constraint
+- Direct and Indirect Action
+- Goals
+- Challenge 
+- Skill, Strategy and Chance
+- Decision-making and Feedback
+- Abstraction
+- Theme
+- Storytelling
+- Context of Play
+
+### Additional concepts of importance
+- Second-Order Design:
+- Space of Possibility: 
+- Game State:
+
 ## Exercises
 
 ### _Identify the basic elements in a game of your choice (actions, goals, rules, playspace, players)_
