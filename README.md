@@ -1,5 +1,9 @@
 
 ---
+# Week 3
+## Glossary
+# Week 2
+## Glossary
 # Week 1
 
 ## Glossary
