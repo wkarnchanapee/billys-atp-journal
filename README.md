@@ -1,5 +1,15 @@
 
 ---
+# Week 8
+- Emotional Design
+## Glossary
+# Week 7
+- Playtesting
+# Week 6
+- Professor Mata Haggis. 
+ - https://www.youtube.com/watch?v=LPkbAMj-xVA
+# Week 5
+# Week 4
 # Week 3
 ## Glossary
 # Week 2
