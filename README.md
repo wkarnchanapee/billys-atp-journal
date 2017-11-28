@@ -6,7 +6,7 @@
 # Week 7
 - Playtesting
 # Week 6
-- Professor Mata Haggis. 
+- Professor Mata Haggis - Narrative Design for Games
  - https://www.youtube.com/watch?v=LPkbAMj-xVA
 # Week 5
 # Week 4
