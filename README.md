@@ -1,23 +1,50 @@
 
 ---
+# Week 9
+
+Playtesting
+
+Ludum Dare 40: Crazy Kitchen 72hr Jam
+https://ldjam.com/events/ludum-dare/40/crazy-kitchen
+
+
+
+
 # Week 8
 - Emotional Design
+
+What emotions do we want the players to feel when playing our game?
+- Tension
+- 
+
+Merge Errors
+I lost all my work.
 ## Glossary
+
 # Week 7
+- 
 - Playtesting
+ - Korean playtesters. 
 # Week 6
 - Professor Mata Haggis - Narrative Design for Games
  - https://www.youtube.com/watch?v=LPkbAMj-xVA
+ - 
 # Week 5
 # Week 4
 # Week 3
 ## Glossary
 # Week 2
 ## Glossary
+The Kinds of Play
+- Competitive Play
+ - Yomi
+ - asynchronous competition
+ - head to head competition
+ - symmetrical competition
+ 
 # Week 1
 
 ## Glossary
-
 ### The Elements of a Game
 - Actions
 - Goals
