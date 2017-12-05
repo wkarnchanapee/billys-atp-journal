@@ -7,6 +7,12 @@ Playtesting
 Ludum Dare 40: Crazy Kitchen 72hr Jam
 https://ldjam.com/events/ludum-dare/40/crazy-kitchen
 
+The Second Law of Thermodynamics.
+
+The second law of thermodynamics states that the total entropy can never decrease over time for an isolated system, that is, a system in which neither energy nor matter can enter nor leave. The total entropy can remain constant in ideal cases where the system is in a steady state (equilibrium), or is undergoing a reversible process. In all other real cases, the total entropy always increases and the process is irreversible. The increase in entropy accounts for the irreversibility of natural processes, and the asymmetry between future and past.
+
+Isolated System. Entropy.
+
 
 
 
