@@ -1,4 +1,4 @@
-
+﻿
 ---
 # Week 9
 
@@ -23,8 +23,9 @@ This is interesting in terms of game design, especially in competitive games. By
 
 I have felt this way a couple of times during a 50minute game of DotA where it's clear that we have lost but for some reason we're still sitting here. 
 
+Abstract Classes - When you want a class's children to have to have a function or variable you can use the abstract keyword I think. 
 
-
+Protected - once inside the child class, if you want to use inherited variables you need to make sure they are set to the right permission level. Protected level means that a class's child can get to that class's variables.
 
 # Week 8
 - Emotional Design
