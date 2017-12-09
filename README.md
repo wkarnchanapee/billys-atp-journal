@@ -1,5 +1,9 @@
 ﻿
+### Game Design Journal
 ---
+[08/12/17](../master.singleton-abstract-protected-static.md)
+
+
 # Week 9
 
 Playtesting
@@ -21,23 +25,9 @@ Isolated System. Entropy.
 
 This is interesting in terms of game design, especially in competitive games. By having an equilibrium of power between agents, a tug of war dynamic emerges. You have to be careful not to design a snowball situation where power leads to more dominance. having catchup mechanisms is important, otherwise a player may feel that the game is lost and completely lose interest.
 
-I have felt this way a couple of times during a 50minute game of DotA where it's clear that we have lost but for some reason we're still sitting here. 
+I have felt this way a couple of times during a 50minute game of DotA where it's clear that we have lost but for some reason we're still sitting here.
 
-Abstract Classes - When you want a class's children to have to have a function or variable you can use the abstract keyword I think. 
 
-Protected - once inside the child class, if you want to use inherited variables you need to make sure they are set to the right permission level. Protected level means that a class's child can get to that class's variables.
-
-Static Members - 
-A static member of a class is something that can be called just by typing Classname.StaticMember. You dont need to have an instance of an object. 
-For example, i could get GameController.SpawnPoint straight from the class rather than having to reference an instance
-
-Singletons - 
-Easily refer to single instance, like the Game Controller.
-Using static variables I can create a single instance of a class on awake and store it in Classname.Instance.
-
-private static GameManager Instance {get; private set;}
-
-Why do people name some variables with an _at the begining? 
 
 
 
