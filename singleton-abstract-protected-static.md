@@ -12,4 +12,7 @@ Using static variables I can create a single instance of a class on awake and st
 
 private static GameManager Instance {get; private set;}
 
-Why do people name some variables with an _at the begining? 
+Why do people name some variables with an _at the begining?
+
+---
+﻿[Back to homepage](/README.md)
