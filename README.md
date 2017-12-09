@@ -1,7 +1,8 @@
 ﻿
 ### Game Design Journal
 ---
-[08/12/17](../master.singleton-abstract-protected-static.md)
+[link here](www.google.com)
+[08/12/17](/singleton-abstract-protected-static.md)
 
 
 # Week 9
