@@ -2,10 +2,11 @@
 ### Game Design Journal
 ###### 09/12/17
 - [Today I installed this theme.](/today-i-installed-this-theme.md)
+- [Equivalent Exchange](/interconnectedness.md)
 
 ###### 08/12/17
 - [Singletons, Abstract Classes, Protected, and Static Members.](/singleton-abstract-protected-static.md)
-- [The conversion of energy in game systems.](/conversion-of-energy.md)
+- [The potential energy of a isolated system](/conversion-of-energy.md)
 
 ###### 04/12/17
 - [We just submitted our Ludum Dare 40 jam entry!](/ld40jam.md)
