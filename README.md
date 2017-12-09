@@ -3,36 +3,19 @@
 
 ---
 ###### 09/12/17
+- [Today I installed this theme.](/today-i-installed-this-theme.md)
 ---
 ###### 08/12/17
-- [Singletons, Abstract Classes, Protected, and Static Members](/singleton-abstract-protected-static.md)
-
-
-# Week 9
-
-Playtesting
-
-Ludum Dare 40: Crazy Kitchen 72hr Jam
-https://ldjam.com/events/ludum-dare/40/crazy-kitchen
-Me and my friend participated in the 40th Ludum Dare game jam. The theme was "The more you have, the worse it gets." We thought about a restaurant scenario, and how
-by having more customers, the more hectic the work gets.
-
-I feel more confident with using git now, albeit through an interface like Sourcetree. During the past 3 days we had many merge conflicts and errors, however we discovered ways of working in particular with Unity and how it deals with scenes. We came up with a rule similar to the post it note rule. Only one of us was allowed to work on a piece of code/scene/asset at a time.
-
-
-
-The Second Law of Thermodynamics.
-
-The second law of thermodynamics states that the total entropy can never decrease over time for an isolated system, that is, a system in which neither energy nor matter can enter nor leave. The total entropy can remain constant in ideal cases where the system is in a steady state (equilibrium), or is undergoing a reversible process. In all other real cases, the total entropy always increases and the process is irreversible. The increase in entropy accounts for the irreversibility of natural processes, and the asymmetry between future and past.
-
-Isolated System. Entropy.
-
-This is interesting in terms of game design, especially in competitive games. By having an equilibrium of power between agents, a tug of war dynamic emerges. You have to be careful not to design a snowball situation where power leads to more dominance. having catchup mechanisms is important, otherwise a player may feel that the game is lost and completely lose interest.
-
-I have felt this way a couple of times during a 50minute game of DotA where it's clear that we have lost but for some reason we're still sitting here.
-
-
-
+- [Singletons, Abstract Classes, Protected, and Static Members.](/singleton-abstract-protected-static.md)
+- [The conversion of energy in game systems.](/conversion-of-energy.md)
+---
+###### 04/12/17
+- [We just submited our Ludum Dare 40 jam entry!](/ld40-jam.md)
+---
+###### 02/12/17
+- [LD40 theme - The more you have, the worse it gets.](/ld40-theme.md)
+---
+######
 
 
 # Week 8
